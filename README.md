@@ -1,4 +1,4 @@
 - about me:
-👋 Hi, I'm @evi-silva
-- 👀 I'm interested in learning new languages
-- 🌱 Recently I'm learning to program the JavaScript and Scratch language.
+👋 Hi, my name is @evi-silva
+- 👀 I'm interested in learning to program new languages
+- 🌱 I'm recently learning to program the JavaScript and Scratch language.
